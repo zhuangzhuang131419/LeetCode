@@ -1,30 +1,27 @@
 package Q3;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * Given a string, find the length of the longest substring without repeating characters.
  */
 
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int[][] memo = new int[s.length()][s.length()];
-
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = i; j < s.length(); j++) {
-                if (i == j) {
-                    memo[i][j] = 1;
-                }else if (s.substring(i, j).contains(s.substring(j, j + 1))){
-                    memo[i][j] = memo[i][j - 1];
-                }
-                else {
-                    memo[i][j] = memo[i][j - 1] + 1;
-                }
-
+        int n = s.length();
+        Set<Character> set = new HashSet<>(n);
+        int i = 0, j = 0, ans = 0;
+        while (i < n && j < n) {
+            if (!set.contains(s.charAt(j))) {
+                set.add(s.charAt(j));
+                j++;
+                ans = Math.max(ans, j - i);
+            } else {
+                set.remove(s.charAt(i));
+                i++;
             }
         }
-        return memo[0][s.length() - 1];
-    }
-
-    public static void main(String[] args) {
-
+        return ans;
     }
 }
