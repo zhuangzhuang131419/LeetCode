@@ -7,7 +7,7 @@ class ListNode {
       ListNode(int x) { val = x; }
 }
 
-class Solution {
+class Q2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode newListNode;
         if (l1 == null) {
@@ -27,7 +27,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s = new Solution();
+        Q2 s = new Q2();
         ListNode l1 = new ListNode(2);
         l1.next = new ListNode(4);
         l1.next.next = new ListNode(3);

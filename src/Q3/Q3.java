@@ -7,7 +7,7 @@ import java.util.Set;
  * Given a string, find the length of the longest substring without repeating characters.
  */
 
-public class Solution {
+public class Q3 {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         Set<Character> set = new HashSet<>(n);

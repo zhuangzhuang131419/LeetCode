@@ -2,7 +2,7 @@ package Q1;
 
 import java.util.Hashtable;
 
-public class Solution {
+public class Q1 {
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
@@ -29,7 +29,7 @@ public class Solution {
     }
 
     public static void  main(String[] args) {
-        Solution s1 = new Solution();
+        Q1 s1 = new Q1();
         int[] nums = {2, 7, 8, 9};
         // int[] result = s1.twoSum(nums, 10);
         int[] result = s1.twoSum1(nums, 10);
