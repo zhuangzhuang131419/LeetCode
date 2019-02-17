@@ -9,6 +9,12 @@ class Q5Test {
     @Test
     void longestPalindrome() {
         Q5 q = new Q5();
+        Dynamic d = new Dynamic();
+
+        assertEquals("aba", d.longestPalindrome("babad"));
+        assertEquals("bb", d.longestPalindrome("cbbd"));
+        assertEquals("a", d.longestPalindrome("a"));
+        assertEquals("bb", d.longestPalindrome("bb"));
 
         assertEquals("bab", q.longestPalindrome("babad"));
         assertEquals("bb", q.longestPalindrome("cbbd"));
