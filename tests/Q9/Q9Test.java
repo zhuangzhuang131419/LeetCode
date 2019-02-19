@@ -32,7 +32,8 @@ public class Q9Test {
                 {121, true},
                 {101, true},
                 {-121, false},
-                {10, false}
+                {10, false},
+                {11, true}
         };
         return Arrays.asList(data);
     }
@@ -41,12 +42,13 @@ public class Q9Test {
 
     @Test
     public void isPalindrome() {
-        /*
+
         boolean result = s9.isPalindrome(this.arg);
-        assertEquals("Result", this.expectedValidation, result);
-        */
+        assertEquals(Integer.toString(this.arg), this.expectedValidation, result);
+        /*
         for (Object[] dataTest: data()) {
             assertEquals(dataTest[1], s9.isPalindrome((int)dataTest[0]));
         }
+        */
     }
 }

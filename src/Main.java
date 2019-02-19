@@ -1,4 +1,3 @@
-import Q1.Solution;
 
 import java.util.ArrayList;
 
@@ -73,8 +72,12 @@ class Main {
     }
 
     public static void main(String[] args) {
+        /*
         int[] s = new int[]{20, 324, 53, 6, 23, 6, 345, 54, 9};
         Main m = new Main();
         System.out.println(m.solution(s));
+        */
+        String s = "a";
+        System.out.println(s.substring(1));
     }
 }

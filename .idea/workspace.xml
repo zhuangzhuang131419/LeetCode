@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatchingDynamic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Q8/Solution8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/LeetCode/Q10/Q10Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q10/RegularExpressionMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q8/Solution8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Q10/Q10Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q9/Q9Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q9/Q9Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Q9/Q9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Q9/Q9Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,73 +27,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Q9/Q9Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q8/Solution8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q4/Q4Test.java">
+        <entry file="file://$PROJECT_DIR$/src/Q10/RegularExpressionMatching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="423">
+              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q5/Q5.java">
+        <entry file="file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q5/Dynamic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q5/Q5Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="54">
+              <caret line="57" column="26" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="57" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q9/Solution9.java">
+        <entry file="file://$PROJECT_DIR$/src/Q7/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="240">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q9/Q9Test.java">
+        <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="48" column="73" lean-forward="true" selection-start-line="48" selection-start-column="73" selection-end-line="48" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Q10/Q10Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -107,23 +122,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q3/Q3Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -138,7 +144,6 @@
         <option value="$PROJECT_DIR$/src/Q3/Solution.java" />
         <option value="$PROJECT_DIR$/tests/Q4/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/Q4/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Q1/Solution.java" />
         <option value="$PROJECT_DIR$/src/Q1/Q1.java" />
         <option value="$PROJECT_DIR$/src/Q2/Q2.java" />
@@ -152,8 +157,14 @@
         <option value="$PROJECT_DIR$/src/Q6/Solution.java" />
         <option value="$PROJECT_DIR$/tests/Q7/Q7Test.java" />
         <option value="$PROJECT_DIR$/src/Q7/Solution.java" />
-        <option value="$PROJECT_DIR$/tests/Q9/Q9Test.java" />
         <option value="$PROJECT_DIR$/src/Q9/Solution9.java" />
+        <option value="$PROJECT_DIR$/tests/Q9/Q9Test.java" />
+        <option value="$PROJECT_DIR$/src/Q8/Solution8.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Q10/RegularExpressionMatching.java" />
+        <option value="$PROJECT_DIR$/src/Q10/RegularExpressionMatching1.java" />
+        <option value="$PROJECT_DIR$/tests/Q10/Q10Test.java" />
+        <option value="$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java" />
       </list>
     </option>
   </component>
@@ -184,19 +195,31 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Q6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Q7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Q9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Q10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Q10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -215,10 +238,11 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550500061175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550605036212" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -226,11 +250,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Q10" />
       <recent name="Q9" />
       <recent name="Q7" />
       <recent name="Q6" />
       <recent name="Q5" />
-      <recent name="Q4" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -248,33 +272,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Q9Test">
-    <configuration name="Q5Test.longestPalindrome" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q10Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Q5" />
-      <option name="MAIN_CLASS_NAME" value="Q5.Q5Test" />
-      <option name="METHOD_NAME" value="longestPalindrome" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q5.*" />
+          <option name="PATTERN" value="Q10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Q5" />
-      <option name="MAIN_CLASS_NAME" value="Q5.Q5Test" />
+      <option name="PACKAGE_NAME" value="Q10" />
+      <option name="MAIN_CLASS_NAME" value="Q10.Q10Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -326,19 +341,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Android JUnit.Q5Test.longestPalindrome" />
-      <item itemvalue="JUnit.Q5Test" />
       <item itemvalue="JUnit.Q6Test" />
       <item itemvalue="JUnit.Q7Test" />
       <item itemvalue="JUnit.Q9Test" />
+      <item itemvalue="JUnit.Q10Test" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q10Test" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.Q9Test" />
         <item itemvalue="JUnit.Q7Test" />
         <item itemvalue="JUnit.Q6Test" />
-        <item itemvalue="JUnit.Q5Test" />
-        <item itemvalue="Android JUnit.Q5Test.longestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -356,42 +371,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Q7Test - 2019.02.18 at 01h 04m 17s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 16m 26s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q7Test - 2019.02.18 at 01h 12m 43s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 16m 52s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q7Test - 2019.02.18 at 01h 13m 30s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 23m 08s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q7Test - 2019.02.18 at 01h 15m 40s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 23m 15s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q7Test - 2019.02.18 at 01h 18m 37s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 24m 07s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q7Test - 2019.02.18 at 01h 20m 19s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 25m 24s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q9Test - 2019.02.18 at 09h 16m 28s.xml">
-      <configuration name="Q9Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 25m 30s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q9Test - 2019.02.18 at 09h 18m 12s.xml">
-      <configuration name="Q9Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 26m 52s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q9Test - 2019.02.18 at 09h 18m 59s.xml">
-      <configuration name="Q9Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 26m 57s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Q9Test - 2019.02.18 at 09h 22m 09s.xml">
-      <configuration name="Q9Test" configurationId="JUnit" />
+    <history-entry file="Q10Test - 2019.02.18 at 12h 29m 44s.xml">
+      <configuration name="Q10Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26494345" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26494345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,15 +415,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36849314" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39863014" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36849314" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46438357" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -429,10 +444,46 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Q9/Solution9.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java</url>
+          <line>9</line>
           <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -474,16 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/Q4/Q4Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -498,13 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q5/Dynamic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -532,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q7/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q6/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -546,27 +573,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q8/Solution8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/Q5/Q5Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="158">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q5/Dynamic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q9/Solution9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/requests/ClassRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/builders/JUnit4Builder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/Q9/Q9Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="48" column="73" lean-forward="true" selection-start-line="48" selection-start-column="73" selection-end-line="48" selection-end-column="73" />
+        <state relative-caret-position="-216">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q9/Solution9.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="340">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q10/RegularExpressionMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q10/Q10Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="57" column="26" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q7/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
