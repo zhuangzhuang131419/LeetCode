@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +29,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q13/RomanToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            <state relative-caret-position="174">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="e#1271#1291#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q14/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Q14/LongestCommonPrefixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Q13/RomanToIntegerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -48,40 +73,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="82" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q11/ContainerWithMostWaterLimitMemory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q4/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q11/Q11Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +110,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -164,6 +155,10 @@
         <option value="$PROJECT_DIR$/tests/Q12/IntegerToRomanTest.java" />
         <option value="$PROJECT_DIR$/src/Q12/IntegerToRoman.java" />
         <option value="$PROJECT_DIR$/src/Q13/RomanToInteger.java" />
+        <option value="$PROJECT_DIR$/tests/Q13/RomanToIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/tests/Q14/LongestCommonPrefixTest.java" />
+        <option value="$PROJECT_DIR$/src/Q14/LongestCommonPrefix.java" />
       </list>
     </option>
   </component>
@@ -209,7 +204,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Q13" type="462c0819:PsiDirectoryNode" />
+              <item name="Q14" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -236,6 +231,18 @@
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Q13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Q14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -249,7 +256,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551532790839" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551534366347" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -261,11 +268,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Q14" />
+      <recent name="Q13" />
       <recent name="Q12" />
       <recent name="Q11" />
       <recent name="Q10" />
-      <recent name="Q9" />
-      <recent name="Q7" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -286,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RomanToIntegerTest">
+  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest">
     <configuration name="WriteLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.WriteLetter" />
       <module name="LeetCode" />
@@ -308,18 +315,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11Test.maxArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q11.*" />
+          <option name="PATTERN" value="Q14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Q11" />
-      <option name="MAIN_CLASS_NAME" value="Q11.Q11Test" />
-      <option name="METHOD_NAME" value="maxArea" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Q14" />
+      <option name="MAIN_CLASS_NAME" value="Q14.LongestCommonPrefixTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -356,18 +362,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.q2" />
-      <item itemvalue="JUnit.Q11Test.maxArea" />
       <item itemvalue="JUnit.Q7Test" />
       <item itemvalue="Application.WriteLetter" />
       <item itemvalue="JUnit.RomanToIntegerTest" />
+      <item itemvalue="JUnit.LongestCommonPrefixTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestCommonPrefixTest" />
         <item itemvalue="JUnit.RomanToIntegerTest" />
         <item itemvalue="Application.WriteLetter" />
         <item itemvalue="JUnit.Q7Test" />
         <item itemvalue="Application.q2" />
-        <item itemvalue="JUnit.Q11Test.maxArea" />
       </list>
     </recent_temporary>
   </component>
@@ -385,12 +391,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Q7Test - 2019.02.23 at 14h 58m 13s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Q7Test - 2019.02.23 at 14h 58m 47s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Q7Test - 2019.02.23 at 15h 00m 30s.xml">
       <configuration name="Q7Test" configurationId="JUnit" />
     </history-entry>
@@ -415,12 +415,18 @@
     <history-entry file="Q7Test - 2019.02.23 at 15h 05m 57s.xml">
       <configuration name="Q7Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RomanToIntegerTest - 2019.03.02 at 08h 19m 41s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestCommonPrefixTest - 2019.03.02 at 08h 34m 10s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27705976" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27705976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -429,7 +435,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36849314" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36849314" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4632238" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -763,13 +769,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q13/RomanToIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q13/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="174">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#1271#1291#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q14/LongestCommonPrefixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q14/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
         </state>
       </provider>
     </entry>
