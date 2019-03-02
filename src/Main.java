@@ -1,5 +1,8 @@
 
+import javafx.util.Pair;
+
 import java.util.ArrayList;
+import java.util.Comparator;
 
 class Main {
     public int solution(int[] A) {
@@ -71,13 +74,11 @@ class Main {
         return count;
     }
 
-    public static void main(String[] args) {
-        /*
-        int[] s = new int[]{20, 324, 53, 6, 23, 6, 345, 54, 9};
-        Main m = new Main();
-        System.out.println(m.solution(s));
-        */
-        String s = "a";
-        System.out.println(s.substring(1));
+
+
+    class Node {
+
     }
+
 }
+
