@@ -14,15 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q13/RomanToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q14/LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -34,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q15/Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="540">
+              <caret line="38" column="9" selection-start-line="16" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,16 +34,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q16/threeSumClosest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="61" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1490#1491#0" expanded="true" />
-                <element signature="e#1568#1569#0" expanded="true" />
+                <element signature="e#200#208#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Q17/LetterCombinationsOfPhoneNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -108,8 +116,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -162,6 +170,8 @@
         <option value="$PROJECT_DIR$/tests/Q15/SumTest.java" />
         <option value="$PROJECT_DIR$/src/Q15/Sum.java" />
         <option value="$PROJECT_DIR$/src/Q16/threeSumClosest.java" />
+        <option value="$PROJECT_DIR$/tests/Q17/LetterCombinationsOfPhoneNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java" />
       </list>
     </option>
   </component>
@@ -205,12 +215,24 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Q16" type="462c0819:PsiDirectoryNode" />
+              <item name="Q17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Q15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Q17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -220,8 +242,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +251,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570841628116" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570891809185" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -241,11 +263,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Q17" />
       <recent name="Q15" />
       <recent name="Q14" />
       <recent name="Q13" />
       <recent name="Q12" />
-      <recent name="Q11" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -266,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="JUnit.LetterCombinationsOfPhoneNumberTest.letterCombinations">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Google.Solution" />
       <module name="LeetCode" />
@@ -293,6 +315,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LetterCombinationsOfPhoneNumberTest.letterCombinations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q17" />
+      <option name="MAIN_CLASS_NAME" value="Q17.LetterCombinationsOfPhoneNumberTest" />
+      <option name="METHOD_NAME" value="letterCombinations" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -303,21 +341,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="Q14" />
       <option name="MAIN_CLASS_NAME" value="Q14.LongestCommonPrefixTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q7Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Q7" />
-      <option name="MAIN_CLASS_NAME" value="Q7.Q7Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -341,17 +364,17 @@
     <list>
       <item itemvalue="Application.WriteLetter" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="JUnit.Q7Test" />
       <item itemvalue="JUnit.RomanToIntegerTest" />
       <item itemvalue="JUnit.LongestCommonPrefixTest" />
+      <item itemvalue="JUnit.LetterCombinationsOfPhoneNumberTest.letterCombinations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LetterCombinationsOfPhoneNumberTest.letterCombinations" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="JUnit.LongestCommonPrefixTest" />
         <item itemvalue="JUnit.RomanToIntegerTest" />
         <item itemvalue="Application.WriteLetter" />
-        <item itemvalue="JUnit.Q7Test" />
       </list>
     </recent_temporary>
   </component>
@@ -373,19 +396,17 @@
       <option name="project" value="LOCAL" />
       <updated>1570839585282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Q16 done">
+      <created>1570841685242</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570841685243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Q7Test - 2019.02.23 at 15h 00m 30s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Q7Test - 2019.02.23 at 15h 00m 53s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Q7Test - 2019.02.23 at 15h 02m 10s.xml">
-      <configuration name="Q7Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Q7Test - 2019.02.23 at 15h 02m 29s.xml">
       <configuration name="Q7Test" configurationId="JUnit" />
     </history-entry>
@@ -407,12 +428,21 @@
     <history-entry file="LongestCommonPrefixTest - 2019.03.02 at 08h 34m 10s.xml">
       <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LetterCombinationsOfPhoneNumberTest_letterCombinations - 2019.10.12 at 10h 41m 57s.xml">
+      <configuration name="LetterCombinationsOfPhoneNumberTest.letterCombinations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LetterCombinationsOfPhoneNumberTest_letterCombinations - 2019.10.12 at 10h 42m 21s.xml">
+      <configuration name="LetterCombinationsOfPhoneNumberTest.letterCombinations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LetterCombinationsOfPhoneNumberTest_letterCombinations - 2019.10.12 at 10h 44m 28s.xml">
+      <configuration name="LetterCombinationsOfPhoneNumberTest.letterCombinations" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28513733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28917608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -422,14 +452,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36849314" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4630137" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4630137" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,7 +472,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Q15 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q15 done" />
+    <MESSAGE value="Q16 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q16 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -518,6 +549,42 @@
           <line>26</line>
           <properties />
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/Q17/LetterCombinationsOfPhoneNumberTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -737,17 +804,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice/WriteLetter.java">
+    <entry file="file://$PROJECT_DIR$/src/Practice/WriteLetter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Practice/Candy.java" />
+    <entry file="file://$PROJECT_DIR$/src/Practice/Google/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q16/Permute.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q13/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice/Candy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
@@ -758,55 +822,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Q13/RomanToIntegerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Q15/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Q6/Q6Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice/Google/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q13/RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q16/Permute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="540">
+          <caret line="38" column="9" selection-start-line="16" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Q14/LongestCommonPrefixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q12/IntegerToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="82" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -817,24 +839,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q15/Sum.java">
+    <entry file="file://$PROJECT_DIR$/tests/Q14/LongestCommonPrefixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q13/RomanToIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q12/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="82" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q6/Q6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q16/threeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q17/LetterCombinationsOfPhoneNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q17/LetterCombinationsOfPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1490#1491#0" expanded="true" />
-            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#200#208#0" expanded="true" />
           </folding>
         </state>
       </provider>
