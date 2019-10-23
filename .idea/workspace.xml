@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="Q17 done">
+      <change afterPath="$PROJECT_DIR$/src/Q121/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q25/ReverseNodesKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q32/LongestValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q37/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q42/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q85/MaximalRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q90/SubsetsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Q45/JumpGameIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Q53/MaximumSubarrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Practice/Candy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Practice/WriteLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -248,11 +268,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+<<<<<<< Updated upstream
       <recent name="Q128" />
       <recent name="Q79" />
       <recent name="Q78" />
       <recent name="Q66" />
       <recent name="Q77" />
+=======
+      <recent name="Q139" />
+      <recent name="Q113" />
+      <recent name="Q155" />
+      <recent name="Q153" />
+      <recent name="Q94" />
+>>>>>>> Stashed changes
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -273,6 +301,7 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="JUnit.LongestConsecutiveSequenceTest.longestConsecutive">
     <configuration name="CombinationsTest.combine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
@@ -285,11 +314,26 @@
       <option name="PACKAGE_NAME" value="Q77" />
       <option name="MAIN_CLASS_NAME" value="Q77.CombinationsTest" />
       <option name="METHOD_NAME" value="combine" />
+=======
+  <component name="RunManager" selected="JUnit.WordBreakTest.wordBreak">
+    <configuration name="BinaryTreeInorderTraversalTest.inorderTraversal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q94.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q94" />
+      <option name="MAIN_CLASS_NAME" value="Q94.BinaryTreeInorderTraversalTest" />
+      <option name="METHOD_NAME" value="inorderTraversal" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -301,11 +345,25 @@
       <option name="PACKAGE_NAME" value="Q128" />
       <option name="MAIN_CLASS_NAME" value="Q128.LongestConsecutiveSequenceTest" />
       <option name="METHOD_NAME" value="longestConsecutive" />
+=======
+    <configuration name="FindMinimumInRotatedSortedArrayTest.findMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q153.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q153" />
+      <option name="MAIN_CLASS_NAME" value="Q153.FindMinimumInRotatedSortedArrayTest" />
+      <option name="METHOD_NAME" value="findMin" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="PlusOneTest.plusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -317,11 +375,25 @@
       <option name="PACKAGE_NAME" value="Q66" />
       <option name="MAIN_CLASS_NAME" value="Q66.PlusOneTest" />
       <option name="METHOD_NAME" value="plusOne" />
+=======
+    <configuration name="InterleavingStringTest.isInterleave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q97.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q97" />
+      <option name="MAIN_CLASS_NAME" value="Q97.InterleavingStringTest" />
+      <option name="METHOD_NAME" value="isInterleave" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="SubsetsTest.subsets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -333,11 +405,25 @@
       <option name="PACKAGE_NAME" value="Q78" />
       <option name="MAIN_CLASS_NAME" value="Q78.SubsetsTest" />
       <option name="METHOD_NAME" value="subsets" />
+=======
+    <configuration name="MinStackTest.push" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q155.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q155" />
+      <option name="MAIN_CLASS_NAME" value="Q155.MinStackTest" />
+      <option name="METHOD_NAME" value="push" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="WordSearchTest.exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -349,12 +435,26 @@
       <option name="PACKAGE_NAME" value="Q79" />
       <option name="MAIN_CLASS_NAME" value="Q79.WordSearchTest" />
       <option name="METHOD_NAME" value="exist" />
+=======
+    <configuration name="WordBreakTest.wordBreak" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q139.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q139" />
+      <option name="MAIN_CLASS_NAME" value="Q139.WordBreakTest" />
+      <option name="METHOD_NAME" value="wordBreak" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+<<<<<<< Updated upstream
       <item itemvalue="JUnit.CombinationsTest.combine" />
       <item itemvalue="JUnit.PlusOneTest.plusOne" />
       <item itemvalue="JUnit.SubsetsTest.subsets" />
@@ -368,6 +468,21 @@
         <item itemvalue="JUnit.SubsetsTest.subsets" />
         <item itemvalue="JUnit.PlusOneTest.plusOne" />
         <item itemvalue="JUnit.CombinationsTest.combine" />
+=======
+      <item itemvalue="JUnit.InterleavingStringTest.isInterleave" />
+      <item itemvalue="JUnit.BinaryTreeInorderTraversalTest.inorderTraversal" />
+      <item itemvalue="JUnit.FindMinimumInRotatedSortedArrayTest.findMin" />
+      <item itemvalue="JUnit.MinStackTest.push" />
+      <item itemvalue="JUnit.WordBreakTest.wordBreak" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordBreakTest.wordBreak" />
+        <item itemvalue="JUnit.MinStackTest.push" />
+        <item itemvalue="JUnit.FindMinimumInRotatedSortedArrayTest.findMin" />
+        <item itemvalue="JUnit.BinaryTreeInorderTraversalTest.inorderTraversal" />
+        <item itemvalue="JUnit.InterleavingStringTest.isInterleave" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +595,95 @@
       <option name="project" value="LOCAL" />
       <updated>1571423260282</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="15" />
+=======
+    <task id="LOCAL-00012" summary="Q120 done">
+      <created>1571445671826</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571445671826</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Q97 done">
+      <created>1571450343320</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571450343320</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Q94 done">
+      <created>1571451617266</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1571451617267</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Q153 done">
+      <created>1571453443388</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571453443388</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Q155 done">
+      <created>1571456369523</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571456369524</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Q113 done">
+      <created>1571515401553</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571515401553</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Q283 done">
+      <created>1571626864224</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571626864225</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Q287 done">
+      <created>1571627202875</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571627202875</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Q67 done">
+      <created>1571627699616</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1571627699616</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Q139 done">
+      <created>1571700427479</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1571700427479</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Q109 done">
+      <created>1571701333321</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1571701333321</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Q114 done">
+      <created>1571874174754</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1571874174754</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TestHistory">
@@ -550,6 +753,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Q15 done" />
     <MESSAGE value="Q16 done" />
+<<<<<<< Updated upstream
     <MESSAGE value="Q46 done" />
     <MESSAGE value="Q47 Q98 done" />
     <MESSAGE value="Q57 done" />
@@ -563,6 +767,30 @@
     <MESSAGE value="Q105 done" />
     <MESSAGE value="Q69  done" />
     <option name="LAST_COMMIT_MESSAGE" value="Q69  done" />
+=======
+    <MESSAGE value="Q17 done" />
+    <MESSAGE value="Q20 done" />
+    <MESSAGE value="Q22 23 done" />
+    <MESSAGE value="Q26 done" />
+    <MESSAGE value="Q31 done" />
+    <MESSAGE value="Q39 done" />
+    <MESSAGE value="Q40 Q41 done" />
+    <MESSAGE value="Q45 Q53 done" />
+    <MESSAGE value="Q118 done" />
+    <MESSAGE value="Q120 done" />
+    <MESSAGE value="Q97 done" />
+    <MESSAGE value="Q94 done" />
+    <MESSAGE value="Q153 done" />
+    <MESSAGE value="Q155 done" />
+    <MESSAGE value="Q113 done" />
+    <MESSAGE value="Q283 done" />
+    <MESSAGE value="Q287 done" />
+    <MESSAGE value="Q67 done" />
+    <MESSAGE value="Q139 done" />
+    <MESSAGE value="Q109 done" />
+    <MESSAGE value="Q114 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q114 done" />
+>>>>>>> Stashed changes
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -860,6 +1088,91 @@
           <line>11</line>
           <properties />
           <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q97/InterleavingString.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q97/InterleavingString.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q97/InterleavingString.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q97/InterleavingString.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q97/InterleavingString.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q153/FindMinimumInRotatedSortedArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q153/FindMinimumInRotatedSortedArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q153/FindMinimumInRotatedSortedArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q153/FindMinimumInRotatedSortedArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q153/FindMinimumInRotatedSortedArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/Q155/MinStackTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q155/MinStack.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q155/MinStack.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q155/MinStack.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q139/WordBreak.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q139/WordBreak.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q139/WordBreak.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="148" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
