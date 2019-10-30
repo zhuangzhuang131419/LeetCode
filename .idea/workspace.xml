@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q230/KthSmallestElementinaBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q442/FindAllDuplicatesinanArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q134/GasStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q134/GasStation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,86 +17,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q87/ScrambleString.java">
+        <entry file="file://$PROJECT_DIR$/src/Q134/GasStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+            <state relative-caret-position="112">
+              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q60/PermutationSequenceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Q442/FindAllDuplicatesinanArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="256">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q79/WordSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q69/Sqrt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q128/LongestConsecutiveSequence.java">
+        <entry file="file://$PROJECT_DIR$/src/Q230/KthSmallestElementinaBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="323">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q128/LongestConsecutiveSequenceTest.java">
+        <entry file="file://$PROJECT_DIR$/tests/Q134/GasStationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q79/WordSearchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q12/IntegerToRoman.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="82" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Q6/Q6Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="64">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -105,8 +61,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -116,11 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tests/Q10/Q10Test.java" />
-        <option value="$PROJECT_DIR$/src/Q10/RegularExpressionMatchingDynamic.java" />
-        <option value="$PROJECT_DIR$/tests/Q11/Q11Test.java" />
-        <option value="$PROJECT_DIR$/src/Q11/ContainerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/Q11/ContainerWithMostWaterLimitMemory.java" />
         <option value="$PROJECT_DIR$/src/Q7/Solution.java" />
         <option value="$PROJECT_DIR$/tests/Q7/Q7Test.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
@@ -167,6 +118,11 @@
         <option value="$PROJECT_DIR$/src/Q69/Sqrt.java" />
         <option value="$PROJECT_DIR$/tests/Q128/LongestConsecutiveSequenceTest.java" />
         <option value="$PROJECT_DIR$/src/Q128/LongestConsecutiveSequence.java" />
+        <option value="$PROJECT_DIR$/src/Q134/GasStation.java" />
+        <option value="$PROJECT_DIR$/tests/Q414/ThirdMaximumNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/Q414/ThirdMaximumNumber.java" />
+        <option value="$PROJECT_DIR$/src/Q442/FindAllDuplicatesinanArray.java" />
+        <option value="$PROJECT_DIR$/src/Q230/KthSmallestElementinaBST.java" />
       </list>
     </option>
   </component>
@@ -174,16 +130,13 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,31 +152,13 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Q98" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Q15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Q17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Q34" type="462c0819:PsiDirectoryNode" />
+              <item name="Q134" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +171,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571462855002" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572412155866" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -248,11 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Q414" />
       <recent name="Q128" />
       <recent name="Q79" />
       <recent name="Q78" />
       <recent name="Q66" />
-      <recent name="Q77" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -273,19 +208,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestConsecutiveSequenceTest.longestConsecutive">
-    <configuration name="CombinationsTest.combine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ThirdMaximumNumberTest">
+    <configuration name="GasStationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q77.*" />
+          <option name="PATTERN" value="Q134.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Q77" />
-      <option name="MAIN_CLASS_NAME" value="Q77.CombinationsTest" />
-      <option name="METHOD_NAME" value="combine" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Q134" />
+      <option name="MAIN_CLASS_NAME" value="Q134.GasStationTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -301,22 +235,6 @@
       <option name="PACKAGE_NAME" value="Q128" />
       <option name="MAIN_CLASS_NAME" value="Q128.LongestConsecutiveSequenceTest" />
       <option name="METHOD_NAME" value="longestConsecutive" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlusOneTest.plusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Q66" />
-      <option name="MAIN_CLASS_NAME" value="Q66.PlusOneTest" />
-      <option name="METHOD_NAME" value="plusOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -338,6 +256,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThirdMaximumNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q414.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q414" />
+      <option name="MAIN_CLASS_NAME" value="Q414.ThirdMaximumNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WordSearchTest.exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -355,19 +288,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CombinationsTest.combine" />
-      <item itemvalue="JUnit.PlusOneTest.plusOne" />
+      <item itemvalue="JUnit.GasStationTest" />
+      <item itemvalue="JUnit.LongestConsecutiveSequenceTest.longestConsecutive" />
       <item itemvalue="JUnit.SubsetsTest.subsets" />
       <item itemvalue="JUnit.WordSearchTest.exist" />
-      <item itemvalue="JUnit.LongestConsecutiveSequenceTest.longestConsecutive" />
+      <item itemvalue="JUnit.ThirdMaximumNumberTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThirdMaximumNumberTest" />
+        <item itemvalue="JUnit.GasStationTest" />
         <item itemvalue="JUnit.LongestConsecutiveSequenceTest.longestConsecutive" />
         <item itemvalue="JUnit.WordSearchTest.exist" />
         <item itemvalue="JUnit.SubsetsTest.subsets" />
-        <item itemvalue="JUnit.PlusOneTest.plusOne" />
-        <item itemvalue="JUnit.CombinationsTest.combine" />
       </list>
     </recent_temporary>
   </component>
@@ -480,46 +413,53 @@
       <option name="project" value="LOCAL" />
       <updated>1571423260282</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Q414  done">
+      <created>1572410677192</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572410677192</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 22m 31s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 38m 20s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 22m 59s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 40m 25s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 23m 04s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 40m 37s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 23m 30s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 43m 10s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 23m 41s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 49m 09s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 23m 52s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 49m 51s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 23m 55s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 49m 59s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 24m 11s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 51m 28s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 24m 59s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 51m 53s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestConsecutiveSequenceTest_longestConsecutive - 2019.10.19 at 01h 25m 05s.xml">
-      <configuration name="LongestConsecutiveSequenceTest.longestConsecutive" configurationId="JUnit" />
+    <history-entry file="ThirdMaximumNumberTest - 2019.10.29 at 00h 54m 08s.xml">
+      <configuration name="ThirdMaximumNumberTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2969169" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -528,7 +468,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46175638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,7 +502,8 @@
     <MESSAGE value="Q88 done" />
     <MESSAGE value="Q105 done" />
     <MESSAGE value="Q69  done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q69  done" />
+    <MESSAGE value="Q414  done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q414  done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -865,38 +806,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/Q11/Q11Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Q10/Q10Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Q12/IntegerToRomanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice/WriteLetter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practice/Candy.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practice/Google/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/Q16/Permute.java" />
     <entry file="file://$PROJECT_DIR$/src/Q13/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1136,13 +1045,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q87/ScrambleString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q87/ScrambleString.java" />
     <entry file="file://$PROJECT_DIR$/tests/Q60/PermutationSequenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -1198,13 +1101,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Q79/WordSearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q79/WordSearchTest.java" />
     <entry file="file://$PROJECT_DIR$/tests/Q128/LongestConsecutiveSequenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1216,6 +1113,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q134/GasStationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Q414/ThirdMaximumNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q414/ThirdMaximumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q134/GasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q442/FindAllDuplicatesinanArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q230/KthSmallestElementinaBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
