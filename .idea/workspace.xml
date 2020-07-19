@@ -20,41 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q416/PartitionEqualSubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Q416/PartitionEqualSubsetSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q518/CoinChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1/Q1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatchingDynamic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatchingDynamic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWaterLimitMemory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWaterLimitMemory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q12/IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q12/IntegerToRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q13/RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q13/RomanToInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q14/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q14/LongestCommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2/Q2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q3/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q3/Q3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q4/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q5/Dynamic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q5/Dynamic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q5/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q5/Q5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q7/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q7/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q8/Solution8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q8/Solution8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q9/Solution9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q9/Solution9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q10/Q10Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q10/Q10Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q11/Q11Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q11/Q11Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q12/IntegerToRomanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q12/IntegerToRomanTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q13/RomanToIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q13/RomanToIntegerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q14/LongestCommonPrefixTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q14/LongestCommonPrefixTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q3/Q3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q3/Q3Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q4/Q4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q4/Q4Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q5/Q5Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q5/Q5Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q6/Q6Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q6/Q6Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q7/Q7Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q7/Q7Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q9/Q9Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q9/Q9Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,6 +57,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -150,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595061909549</updated>
       <workItem from="1595061920064" duration="1625000" />
-      <workItem from="1595086434084" duration="2666000" />
+      <workItem from="1595086434084" duration="5308000" />
     </task>
     <servers />
   </component>
@@ -170,38 +138,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="392" key="GridCell.Tab.0.bottom" timestamp="1595128616530">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1595129071936">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616530" />
-    <state width="1750" height="392" key="GridCell.Tab.0.center" timestamp="1595128616528">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071936" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1595129071935">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616528" />
-    <state width="1750" height="392" key="GridCell.Tab.0.left" timestamp="1595128616525">
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071935" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1595129071934">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616525" />
-    <state width="1750" height="392" key="GridCell.Tab.0.right" timestamp="1595128616529">
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071934" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1595129071935">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616529" />
-    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1595128616924">
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071935" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1595128880824">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616924" />
-    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1595128616923">
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880824" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1595128880823">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616923" />
-    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1595128616922">
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880823" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1595128880822">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616922" />
-    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1595128616923">
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880822" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1595128880823">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595128616923" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880823" />
     <state x="675" y="389" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595128012453">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -212,7 +180,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Q416/PartitionEqualSubsetSum.java</url>
-          <line>34</line>
+          <line>35</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
