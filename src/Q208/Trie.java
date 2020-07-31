@@ -1,6 +1,5 @@
 package Q208;
 
-import javax.imageio.plugins.tiff.TIFFImageReadParam;
 import java.nio.channels.Channel;
 import java.util.ArrayList;
 import java.util.HashMap;

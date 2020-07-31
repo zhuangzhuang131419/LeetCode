@@ -1,82 +1,73 @@
+import java.util.Collection;
+import java.util.Map;
+import java.util.Set;
 
-import java.util.ArrayList;
-import java.util.Comparator;
+public class Main {
 
-class Main {
-    public int solution(int[] A) {
-        int[] state = new int[A.length];
-        ArrayList<Integer> findIndex = new ArrayList<>();
+    public static void main(String[] args) {
+        System.out.println("Hello World");
 
-        for (int i = 0; i < A.length; i++) {
-            state[i] = 0;
-        }
 
-        for (int i = 0; i < A.length; i++) {
-            findIndex.clear();
-            if (state[i] == 0) {
-                // do the jump process
-                int currentJump = 1;
-                int currentIndex = i;
-                while (currentIndex != A.length - 1) {
-                    int find = currentIndex + 1;
-                    if (currentJump % 2 == 0) {
-                        // even jump
-
-                        while (A[find] >= A[currentIndex]) {
-                            find++;
-                            if (find == A.length) {
-                                // fail
-                                for (int findindex: findIndex) {
-                                    state[findindex] = -1;
-                                }
-                                state[i] = -1;
-                                break;
-                            }
-                        }
-                        findIndex.add(find);
-                    } else {
-                        // odd jump
-                        while (A[find] <= A[currentIndex]) {
-                            find++;
-                            if (find == A.length) {
-                                // fail
-                                state[i] = -1;
-                                break;
-                            }
-                        }
-                    }
-                    if (state[i] == -1) {
-                        break;
-                    }
-                    currentJump++;
-                    currentIndex = find;
-                }
-
-                if (currentIndex == A.length -1) {
-                    for (int findindex: findIndex) {
-                        state[findindex] = 1;
-                    }
-                    state[i] = 1;
-                }
+        Map m = new Map() {
+            @Override
+            public int size() {
+                return 0;
             }
-        }
 
-        int count = 0;
-        for (int i = 0; i < state.length; i++) {
-
-            if (state[i] == 1) {
-                count++;
+            @Override
+            public boolean isEmpty() {
+                return false;
             }
-        }
 
-        return count;
+            @Override
+            public boolean containsKey(Object key) {
+                return false;
+            }
+
+            @Override
+            public boolean containsValue(Object value) {
+                return false;
+            }
+
+            @Override
+            public Object get(Object key) {
+                return null;
+            }
+
+            @Override
+            public Object put(Object key, Object value) {
+                return null;
+            }
+
+            @Override
+            public Object remove(Object key) {
+                return null;
+            }
+
+            @Override
+            public void putAll(Map m) {
+
+            }
+
+            @Override
+            public void clear() {
+
+            }
+
+            @Override
+            public Set keySet() {
+                return null;
+            }
+
+            @Override
+            public Collection values() {
+                return null;
+            }
+
+            @Override
+            public Set<Entry> entrySet() {
+                return null;
+            }
+        };
     }
-
-
-
-    class Node {
-
-    }
-
 }
-

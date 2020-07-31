@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class LetterCombinationsOfPhoneNumber {
     List<String> output = new ArrayList<String>();
-    Map<String, String> phone = new HashMap<>() {{
+    Map<String, String> phone = new HashMap<String, String>() {{
         put("2", "abc");
         put("3", "def");
         put("4", "ghi");
