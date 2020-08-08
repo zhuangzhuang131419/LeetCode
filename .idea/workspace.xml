@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,8 +23,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fe6ccab-f8e8-4e35-94d4-e3a1783b28b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q518/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q198/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q632/SmallestRangeCoveringElementsfromKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yuan/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yuan/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Q198/HouseRobberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1/Q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatchingDynamic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q10/RegularExpressionMatchingDynamic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWaterLimitMemory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q11/ContainerWithMostWaterLimitMemory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q12/IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q12/IntegerToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q13/RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q13/RomanToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q14/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q14/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2/Q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q3/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q3/Q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q4/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q5/Dynamic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q5/Dynamic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q5/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q5/Q5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q7/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q7/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q8/Solution8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q8/Solution8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q9/Solution9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q9/Solution9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q10/Q10Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q10/Q10Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q11/Q11Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q11/Q11Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q12/IntegerToRomanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q12/IntegerToRomanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q13/RomanToIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q13/RomanToIntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q14/LongestCommonPrefixTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q14/LongestCommonPrefixTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q3/Q3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q3/Q3Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q4/Q4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q4/Q4Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q5/Q5Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q5/Q5Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q6/Q6Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q6/Q6Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q7/Q7Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q7/Q7Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/Q9/Q9Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/Q9/Q9Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q42/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q42/TrappingRainWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Q148/SortListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Q148/SortListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +77,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -45,12 +91,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,9 +109,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Q198" />
+      <recent name="Q148" />
       <recent name="Q416" />
       <recent name="Q300" />
     </key>
@@ -68,33 +125,82 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PartitionEqualSubsetSumTest">
-    <configuration name="LongestIncreasingSubsequenceTest.lengthOfLIS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HouseRobberTest">
+    <configuration name="Q1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baidu.Q1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q300.*" />
+          <option name="PATTERN" value="Baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Q300" />
-      <option name="MAIN_CLASS_NAME" value="Q300.LongestIncreasingSubsequenceTest" />
-      <option name="METHOD_NAME" value="lengthOfLIS" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartitionEqualSubsetSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baidu.Q2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q416.*" />
+          <option name="PATTERN" value="Baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Q416" />
-      <option name="MAIN_CLASS_NAME" value="Q416.PartitionEqualSubsetSumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Yuan.Q2" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q42.TrappingRainWater" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q42.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseRobberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q198.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q198" />
+      <option name="MAIN_CLASS_NAME" value="Q198.HouseRobberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +208,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PartitionEqualSubsetSumTest" />
-        <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.lengthOfLIS" />
+        <item itemvalue="JUnit.HouseRobberTest" />
+        <item itemvalue="Application.TrappingRainWater" />
+        <item itemvalue="Application.Q2 (1)" />
+        <item itemvalue="Application.Q1 (1)" />
+        <item itemvalue="Application.Q2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,12 +228,28 @@
       <option name="presentableId" value="Default" />
       <updated>1595061909549</updated>
       <workItem from="1595061920064" duration="1625000" />
-      <workItem from="1595086434084" duration="5308000" />
+      <workItem from="1595086434084" duration="6235000" />
+      <workItem from="1595504985326" duration="170000" />
+      <workItem from="1595505189544" duration="24000" />
+      <workItem from="1595505278656" duration="46000" />
+      <workItem from="1595505337429" duration="98000" />
+      <workItem from="1595505673207" duration="1010000" />
+      <workItem from="1595560437770" duration="58000" />
+      <workItem from="1595578608542" duration="81000" />
+      <workItem from="1595579158815" duration="21000" />
+      <workItem from="1595579192510" duration="212000" />
+      <workItem from="1595579428263" duration="51000" />
+      <workItem from="1595579498657" duration="1799000" />
+      <workItem from="1595989277284" duration="168000" />
+      <workItem from="1595989574335" duration="2437000" />
+      <workItem from="1596164018426" duration="1469000" />
+      <workItem from="1596203548021" duration="15347000" />
+      <workItem from="1596793479741" duration="8671000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -138,42 +264,95 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1595129071936">
+    <state x="496" y="208" key="#Plugins" timestamp="1595579245682">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071936" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1595129071935">
+    <state x="496" y="208" key="#Plugins/0.0.1792.1120@0.0.1792.1120" timestamp="1595579245682" />
+    <state x="261" y="829" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595992334011">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="261" y="829" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1595992334011" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom" timestamp="1596892619971">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071935" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1595129071934">
+    <state width="1038" height="712" key="GridCell.Tab.0.bottom/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271655" />
+    <state width="1038" height="712" key="GridCell.Tab.0.bottom/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205169700" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314481" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909730" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596892619971" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center" timestamp="1596892619970">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071934" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1595129071935">
+    <state width="1038" height="712" key="GridCell.Tab.0.center/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271653" />
+    <state width="1038" height="712" key="GridCell.Tab.0.center/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205169693" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314480" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909729" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596892619970" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left" timestamp="1596892619969">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595129071935" />
-    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1595128880824">
+    <state width="1038" height="712" key="GridCell.Tab.0.left/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271652" />
+    <state width="1038" height="712" key="GridCell.Tab.0.left/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205169692" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314479" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909728" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596892619969" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right" timestamp="1596892619970">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880824" />
-    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1595128880823">
+    <state width="1038" height="712" key="GridCell.Tab.0.right/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271654" />
+    <state width="1038" height="712" key="GridCell.Tab.0.right/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205169695" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314480" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909730" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596892619970" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1596892620566">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880823" />
-    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1595128880822">
+    <state width="1038" height="712" key="GridCell.Tab.1.bottom/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271658" />
+    <state width="1038" height="712" key="GridCell.Tab.1.bottom/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205170269" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314475" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909733" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596892620566" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1596892620565">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880822" />
-    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1595128880823">
+    <state width="1038" height="712" key="GridCell.Tab.1.center/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271657" />
+    <state width="1038" height="712" key="GridCell.Tab.1.center/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205170267" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314474" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909731" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596892620565" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1596892620564">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595128880823" />
-    <state x="675" y="389" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595128012453">
+    <state width="1038" height="712" key="GridCell.Tab.1.left/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271656" />
+    <state width="1038" height="712" key="GridCell.Tab.1.left/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205170264" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314473" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909731" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596892620564" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1596892620565">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="675" y="389" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1595128012453" />
+    <state width="1038" height="712" key="GridCell.Tab.1.right/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596205271658" />
+    <state width="1038" height="712" key="GridCell.Tab.1.right/-960.1162.960.681/0.0.1080.1920/-1920.82.1920.1057@0.0.1080.1920" timestamp="1596205170268" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1080.1920/-1920.0.1920.1080@0.0.1080.1920" timestamp="1595214314474" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1080.1920/-1920.459.1920.1080@0.0.1080.1920" timestamp="1596526909732" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596892620565" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1595580252713">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1595580252713" />
+    <state x="263" y="859" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596204308963">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="263" y="859" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596204308963" />
+    <state x="675" y="389" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596892554971">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="407" y="667" key="com.intellij.testIntegration.createTest.CreateTestDialog/-960.1139.960.704/0.0.1080.1920/-1920.59.1920.1080@0.0.1080.1920" timestamp="1596204258951" />
+    <state x="675" y="389" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1596892554971" />
+    <state x="264" y="182" key="new project wizard" timestamp="1595579669021">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="264" y="182" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1595579669021" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -182,6 +361,46 @@
           <url>file://$PROJECT_DIR$/src/Q416/PartitionEqualSubsetSum.java</url>
           <line>35</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/Q148/SortListTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q148/SortList.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Yuan/Q1.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Yuan/Q1.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Yuan/Q1.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Yuan/Q2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Yuan/Q2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q42/TrappingRainWater.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
