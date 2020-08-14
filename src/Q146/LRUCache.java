@@ -32,10 +32,8 @@ public class LRUCache {
     public void put(int key, int value) {
         if (!map.containsKey(key)) {
             if (map.size() >= capacity) {
-                for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-                    map.remove(entry.getKey());
-                    break;
-                }
+                int deleteKey = map.keySet().iterator().next();
+                map.remove(deleteKey);
             }
         }
         map.put(key, value);
