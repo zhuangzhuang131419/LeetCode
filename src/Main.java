@@ -1,82 +1,50 @@
-
-import java.util.ArrayList;
-import java.util.Comparator;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.ReentrantLock;
 
 class Main {
-    public int solution(int[] A) {
-        int[] state = new int[A.length];
-        ArrayList<Integer> findIndex = new ArrayList<>();
+    private static ReentrantLock lock = new ReentrantLock();
+    private static Condition condition = lock.newCondition();
 
-        for (int i = 0; i < A.length; i++) {
-            state[i] = 0;
+    public static void main(String[] args) {
+        new Thread(new PrintThread("A",0)).start();
+        new Thread(new PrintThread("B",1)).start();
+        new Thread(new PrintThread("C",2)).start();
+    }
+
+    public static class PrintThread implements Runnable{
+        private String letter;
+        private int go;
+
+        private static int turn = 0;
+
+        public PrintThread(String letter,int go) {
+            this.letter = letter;
+            this.go = go;
         }
 
-        for (int i = 0; i < A.length; i++) {
-            findIndex.clear();
-            if (state[i] == 0) {
-                // do the jump process
-                int currentJump = 1;
-                int currentIndex = i;
-                while (currentIndex != A.length - 1) {
-                    int find = currentIndex + 1;
-                    if (currentJump % 2 == 0) {
-                        // even jump
 
-                        while (A[find] >= A[currentIndex]) {
-                            find++;
-                            if (find == A.length) {
-                                // fail
-                                for (int findindex: findIndex) {
-                                    state[findindex] = -1;
-                                }
-                                state[i] = -1;
-                                break;
-                            }
+        @Override
+        public void run() {
+            while (true){
+                lock.lock();
+                try {
+                    try {
+                        while (turn % 3 != go) {
+                            condition.await();
                         }
-                        findIndex.add(find);
-                    } else {
-                        // odd jump
-                        while (A[find] <= A[currentIndex]) {
-                            find++;
-                            if (find == A.length) {
-                                // fail
-                                state[i] = -1;
-                                break;
-                            }
-                        }
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
                     }
-                    if (state[i] == -1) {
-                        break;
-                    }
-                    currentJump++;
-                    currentIndex = find;
-                }
 
-                if (currentIndex == A.length -1) {
-                    for (int findindex: findIndex) {
-                        state[findindex] = 1;
-                    }
-                    state[i] = 1;
+                    System.out.println(go + ":" + letter);
+                    turn++;
+                    turn = turn % 3;
+                    condition.signalAll();
+                } finally {
+                    lock.unlock();
                 }
             }
         }
-
-        int count = 0;
-        for (int i = 0; i < state.length; i++) {
-
-            if (state[i] == 1) {
-                count++;
-            }
-        }
-
-        return count;
     }
-
-
-
-    class Node {
-
-    }
-
 }
 
