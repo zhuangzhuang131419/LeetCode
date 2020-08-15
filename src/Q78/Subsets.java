@@ -2,36 +2,25 @@ package Q78;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Subsets {
-    public List<List<Integer>> subsets(int[] nums) {
 
-        return subsetsHelp(nums, 0);
+
+    List<List<Integer>> output = new ArrayList<>();
+
+    public List<List<Integer>> subsets(int[] nums) {
+        backtrack(nums, 0, new LinkedList<>());
+        return output;
     }
 
-    public List<List<Integer>> subsetsHelp(int[] nums, int start) {
-        if (start == nums.length) return new ArrayList<>();
-        List<List<Integer>> res = new ArrayList<>();
-        if (start == nums.length - 1) {
-            ArrayList<Integer> a = new ArrayList<>();
-            a.add(nums[start]);
-            res.add(a);
-            res.add(new ArrayList<>());
-            return res;
+    public void backtrack(int[] nums, int start, LinkedList<Integer> path) {
+        output.add(new LinkedList<>(path));
+        for (int i = start; i < nums.length; i++) {
+            path.add(nums[i]);
+            backtrack(nums, i + 1, path);
+            path.removeLast();
         }
-
-        List<List<Integer>> l1 = subsetsHelp(nums, start + 1);
-
-        for (List<Integer> l: l1) {
-            List<Integer> temp = new ArrayList<>(l);
-            res.add(l);
-            temp.add(nums[start]);
-            res.add(temp);
-        }
-
-        return res;
-
-
     }
 }
