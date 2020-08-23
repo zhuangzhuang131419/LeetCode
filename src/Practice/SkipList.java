@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Random;
 
-public class SkipList <T> {
+public class  SkipList <T> {
     private SkipListNode<T> head, tail;
     private int nodes; // 节点个数
     private int listLevel; // 层数
@@ -50,6 +50,9 @@ public class SkipList <T> {
         p.append(q);
         int curLevel = 0;
         // 抛硬币
+
+        SkipListNode<T> curLevelHead = this.head;
+        SkipListNode<T> curLevelTail = this.tail;
         while (random.nextDouble() < PROBABILITY) {
             // 上升一层
 
@@ -63,11 +66,11 @@ public class SkipList <T> {
                 p2.left = p1;
 
                 // 竖直连接
-                p1.down = head;
-                head.up = p1;
+                p1.down = curLevelHead;
+                curLevelHead.up = p1;
 
-                p2.down = tail;
-                tail.up = p2;
+                p2.down = curLevelTail;
+                curLevelTail.up = p2;
             }
 
 
@@ -75,11 +78,12 @@ public class SkipList <T> {
             while (p.up == null && p.key != SkipListNode.HEAD_KEY) {
                 p = p.left;
             }
-
-            p = p.up;
-            if (p == null) {
+            if (p.up == null) {
                 System.out.println("Debug");
             }
+
+            p = p.up;
+
 
             SkipListNode<T> e = new SkipListNode<>(k, null); // 只保存key
             p.append(e);
@@ -88,6 +92,8 @@ public class SkipList <T> {
             q.up = e;
             q = e;
             curLevel++;
+            curLevelHead = curLevelHead.up;
+            curLevelTail = curLevelTail.up;
         }
 
         nodes++;
